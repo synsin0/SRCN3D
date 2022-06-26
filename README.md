@@ -1,6 +1,6 @@
 # SRCN3D: Sparse R-CNN 3D Surround-View Cameras 3D Object Detection and Tracking for Autonomous Driving
 
-This repo is the official implementations of SRCN3D (https://arxiv.org/abs/2110.06923) and DETR3D (https://arxiv.org/abs/2110.06922). Our implementation is based on MMdetection3D.  
+This repo is the official implementations of SRCN3D (https://arxiv.org/abs/2110.06923). Our implementation is based on MMdetection3D.  
 
 <!-- <div align="center">
   <img src="figs/overview.png"/>
