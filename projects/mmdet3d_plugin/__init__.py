@@ -7,10 +7,6 @@ from .datasets.pipelines import (
   NormalizeMultiviewImage, CropMultiViewImage, RandomScaleImageMultiViewImage,
   HorizontalRandomFlipMultiViewImage)
 from .models.backbones.vovnet import VoVNet
-from .models.detectors.detr3d import Detr3D
-from .models.dense_heads.detr3d_head import Detr3DHead
-from .models.utils.detr import Deformable3DDetrTransformerDecoder
-from .models.utils.detr3d_transformer import Detr3DTransformer, Detr3DTransformerDecoder, Detr3DCrossAtten
 from .models.detectors.srcn3d import SRCN3D
 from .models.dense_heads.srcn3d_head import SRCN3DHead
 from .models.roi_heads.sparse_roi_head3d import SparseRoIHead3D
