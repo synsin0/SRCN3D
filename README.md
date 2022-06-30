@@ -1,6 +1,6 @@
 # SRCN3D: Sparse R-CNN 3D Surround-View Cameras 3D Object Detection and Tracking for Autonomous Driving
 
-This repo is the official implementations of SRCN3D (https://arxiv.org/abs/2110.06923). Our implementation is based on MMdetection3D.  
+This repo is the official implementations of SRCN3D (https://arxiv.org/abs/2206.14451). Our implementation is based on MMdetection3D.  
 
 <!-- <div align="center">
   <img src="figs/overview.png"/>
@@ -40,12 +40,14 @@ Please install the latest version of mmdet3d (https://github.com/open-mmlab/mmde
 If you find this repo useful for your research, please consider citing the papers
 
 ```
-@inproceedings{
-   SRCN3D,
-   title={SRCN3D: Sparse R-CNN 3D Surround-View Cameras 3D Object Detection and Tracking for Autonomous Driving},
-   author={},
-   journal={arXiv preprint arXiv:2206.01256},
-   year={2022}
+@inproceedings{SRCN3D,
+  doi = {10.48550/ARXIV.2206.14451},
+  url = {https://arxiv.org/abs/2206.14451},
+  author = {Shi, Yining and Shen, Jingyan and Sun, Yifan and Wang, Yunlong and Li, Jiaxin and Sun, Shiqi and Jiang, Kun and Yang, Diange},
+  title = {SRCN3D: Sparse R-CNN 3D Surround-View Camera Object Detection and Tracking for Autonomous Driving},
+  journal={arXiv preprint arXiv:2206.14451},
+  publisher = {arXiv},
+  year = {2022},
 }
 ```
 # News
