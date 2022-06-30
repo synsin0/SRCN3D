@@ -30,7 +30,7 @@ Please install the latest version of mmdet3d (https://github.com/open-mmlab/mmde
 
 |  Backbone   | mAP | NDS | Download |
 | :---------: | :----: |:----: | :------: |
-|[SRCN3D, ResNet101 w/ DCN](./projects/configs/srcn3d/srcn3d_res101_roi7_nusc.py)|33.7|42.8|[model](https://drive.google.com/file/d/1YWX-jIS6fxG5_JKUBNVcZtsPtShdjE4O/view?usp=sharing) &#124; [log](https://drive.google.com/file/d/1uvrf42seV4XbWtir-2XjrdGUZ2Qbykid/view?usp=sharing)|
+|[SRCN3D, ResNet101 w/ DCN](./projects/configs/srcn3d/srcn3d_res101_roi7_nusc.py)|33.7|42.8|[model](https://drive.google.com/uc?export=download&id=1z5Vc7Apfu0TNOMkPZTF1prj4bK5dm3CH) &#124; [log](https://drive.google.com/uc?export=download&id=19da3VhaTYTjFOLxKumfWqCh20jXOl0iQ)|
 
 
 2. for a validation and test submission, use  
