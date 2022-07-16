@@ -31,7 +31,7 @@ Please install the latest version of mmdet3d (https://github.com/open-mmlab/mmde
 |  Backbone   | mAP | NDS | Download |
 | :---------: | :----: |:----: | :------: |
 |[SRCN3D, ResNet101 w/ DCN](./projects/configs/srcn3d/srcn3d_res101_roi7_nusc.py)|33.7|42.8|[model](https://drive.google.com/uc?export=download&id=1z5Vc7Apfu0TNOMkPZTF1prj4bK5dm3CH) &#124; [log](https://drive.google.com/uc?export=download&id=19da3VhaTYTjFOLxKumfWqCh20jXOl0iQ)|
-|[SRCN3D, V2-99](./projects/configs/srcn3d/srcn3d_v2-99_roi7_nusc_dd3d.py)|39.6|47.5|[model](https://drive.google.com/uc?export=download&id=10VgRY_Q0RahJfyY58dQr1n14OVq6Wsl3)&#124; [log](https://drive.google.com/uc?export=download&id=1U9gOqWiE6oA7Na9-Wzj-tlhDSefw3uQ3)|
+|[SRCN3D, V2-99](./projects/configs/srcn3d/srcn3d_v2-99_roi7_nusc_dd3d.py)|39.6|47.5|[model](https://drive.google.com/uc?export=download&id=10VgRY_Q0RahJfyY58dQr1n14OVq6Wsl3) &#124; [log](https://drive.google.com/uc?export=download&id=1U9gOqWiE6oA7Na9-Wzj-tlhDSefw3uQ3)|
 
 2. for a validation and test submission, use  
 `tools/dist_test.sh path/to/config.py /path/to/ckpt 1 --eval=bbox`
